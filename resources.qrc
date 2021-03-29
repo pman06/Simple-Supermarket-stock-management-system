@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>shopping.jpeg</file>
+        <file>supermart.jpeg</file>
+        <file>supermartindoor.jpeg</file>
+        <file>superheader.jpeg</file>
+        <file>images (7).jpeg</file>
+        <file>cashier.jpg</file>
+        <file>images.jpeg</file>
+        <file>unnamed.jpg</file>
+    </qresource>
+</RCC>
