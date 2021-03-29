@@ -9,9 +9,9 @@ This can be further improved on to include even more detailed report page of pur
 
 
 
-Login Page
+##Login Page
 ![Login page](https://github.com/pman06/simple-supermarket-stock-management-system/blob/master/loginpage.PNG)
 
 
-After login
+##After login
 ![Login page](https://github.com/pman06/simple-supermarket-stock-management-system/blob/master/afterlogin.PNG)
