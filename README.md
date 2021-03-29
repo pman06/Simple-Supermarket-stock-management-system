@@ -5,3 +5,13 @@
 ## THis was designed using C++ and QT Creator for the GUI design.
 
 This can be further improved on to include even more detailed report page of purchases and stock history of vaious products. Inclding a module to notify of expiring products too will be a plus.
+
+
+
+
+Login Page
+![Login page](https://github.com/pman06/simple-supermarket-stock-management-system/blob/master/loginpage.PNG)
+
+
+After login
+![Login page](https://github.com/pman06/simple-supermarket-stock-management-system/blob/master/afterlogin.PNG)
